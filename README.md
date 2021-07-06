@@ -1,1 +1,1 @@
-# Learn Kubenetes with MongoDB and MongoExpress
+# Learn Kubernetes with MongoDB and MongoExpress
